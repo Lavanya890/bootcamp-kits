@@ -4,5 +4,5 @@ def reverse(str):
         string = i + string
     return string
 str = "PythonGuides"
-print("The original string is:",str)
-print("The reverse string is:", reverse(str)) 
+print("yes,The original string is:",str)
+print("reverse string is:", reverse(str)) 
